@@ -1,11 +1,9 @@
-import "./App.css";
 
-function App() {
+
+export default function App() {
   return (
     <>
-      <h2> Thanks for visiting ! This page is under construction !</h2>
+      <h2 className="text-2xl bg-yellow-500">Hello</h2>
     </>
   );
 }
-
-export default App;
